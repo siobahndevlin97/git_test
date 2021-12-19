@@ -1,1 +1,2 @@
 Hello world! This is a test of git on the command line :)
+Testing out git commit without the -m flag to see if it uses visual studio code now
